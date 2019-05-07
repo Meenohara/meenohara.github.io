@@ -3,11 +3,14 @@
 I am a coder based in Bengaluru.
 I started my coding career as a C developer for Telecommunication projects.
 I later reskilled in Android and have my app on Playstore.
-At present I am learning Javascript
+At present I am learning Javascript.
 
-### Markdown
+### My Playstore link
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+https://play.google.com/store/apps/developer?id=MeeM
+
+When I had to take the decision of reskilling I chose application layer so that I can also get to be artistic and creative... and I love colors!
+I am looking for freelance assignments in C, Javascript, HTML and CSS
 
 ```markdown
 Syntax highlighted code block
