@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to my Page!
 
-You can use the [editor on GitHub](https://github.com/Meenohara/meenohara.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a coder based in Bengaluru.
+I started my coding career as a C developer for Telecommunication projects.
+I later reskilled in Android and have my app on Playstore.
+At present I am learning Javascript
 
 ### Markdown
 
