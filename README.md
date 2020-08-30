@@ -1,41 +1,37 @@
-## Welcome to my Page!
+## Thanks for dropping by my Page!
+Meena here, a software developer based in Bengaluru. I have been developing Android apps for my own playstore since 2016. I am looking for freelance assignments/remote jobs with Android App development; I also have basic web development skills and 5+ corporate experience with C programming in Telecommunication domain.
 
-I am a coder based in Bengaluru.
-I started my coding career as a C developer for Telecommunication projects.
-I later reskilled in Android and have my app on Playstore.
-At present I am learning Javascript.
+#Mission Statement
+I want to use technology to solve real world problems, thus make life easier. 
 
 ### My Playstore link
-
 https://play.google.com/store/apps/developer?id=MeeM
 
-When I had to take the decision of reskilling I chose application layer so that I can also get to be artistic and creative... and I love colors!
-I am looking for freelance assignments in C, Javascript, HTML and CSS
+### Relevant Android Developer Skills
+•	Languages - Java, Kotlin
+•	APIs - Retrofit, Github,  REST, Firebase
+•	IDEs - Android Studio, Intellij
+•	Architectural Patterns MVVM MVP MVC
+•	Design Patterns - Builder, Observer, Publish-Subscriber, Singleton, Factory, Adapter, Composite, Facade, Dependency
 
-```markdown
-Syntax highlighted code block
+### General Developer Skills
+•	Analytical skills
+•	Troubleshooting ability
+•	Debugging
+•	Problem solving
+•	Attention to detail
+•	Researching abilities
 
-# Header 1
-## Header 2
-### Header 3
+### Open Source Contribution
+Contributed code in Javascript, HTML, HTML5, XHTML, CSS and Freemarker for Mozilla in the project Offline Support Pages for Certificate Errors
+https://bugzilla.mozilla.org/user_profile?user_id=658715
 
-- Bulleted
-- List
+### My development machine
+I use my HP Pavilion laptop with Windows operating System.(64 bit i5 8GB RAM)
 
-1. Numbered
-2. List
+###Contact
+scientistartist@gmail.com
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Meenohara/meenohara.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##Service
+I have been fortunate to have generous mentors for coaching with coding, job hunt(who made me take steps to improve this page), my life mentor who is always holding my hand and many people who have helped me in my life journey as well as coding journey.
+I want to pay this forward by having my own community https://ucanbounceback.slack.com/ which I started as an initiative for people who want to bounce back from setbacks especially if it has affected them professionally. The mission is to inform about work opportunities and helpful resources with getting back to work.
