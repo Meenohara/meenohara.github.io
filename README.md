@@ -26,23 +26,23 @@ https://play.google.com/store/apps/developer?id=MeeM
 Contributed code in Javascript, HTML, HTML5, XHTML, CSS and Freemarker for Mozilla in the project Offline Support Pages for Certificate Errors
 [Link](https://bugzilla.mozilla.org/user_profile?user_id=658715)
 
-### Contact
+### <span style="color:blue">Contact</span>
 scientistartist@gmail.com
 
-### CV
+### <span style="color:blue">CV</span>
 Download my resume from [here](https://www.dropbox.com/s/ftutpt56atu0lvi/MeenaCVRemote.pdf?dl=0)
 
-### LinkedIn
+### <span style="color:blue">LinkedIn</span>
 [Meena M](https://www.linkedin.com/in/meena-m-308208165/) 
 
-### My development machine
+### <span style="color:blue">My development machine</span>
 I use my HP Pavilion laptop with Windows operating System.(64 bit i5 8GB RAM)
 
-### Service
+### <span style="color:blue">Service</span>
 I have been fortunate to have generous mentors for coaching with coding, job hunt(who made me take steps to improve this page), my life mentor who is always holding my hand and many people who have helped me in my life journey as well as coding journey.
 I want to pay this forward by having my own community https://ucanbounceback.slack.com/ which I started as an initiative for people who want to bounce back from setbacks especially if it has affected them professionally. The mission is to inform about work opportunities and helpful resources with getting back to work.
 
-### Hobbies and Interests
+### <span style="color:blue">Hobbies and Interests</span>
 I love art and my main interest is painting with watercolors. I love to read books and a wide range of subjects such as literature, science, mathematics, cooking, baking, ancient wisdom, psychology and much more.z
 I love to explore the intersection of seeming unrelated fields such as quantum science, psychology and ancient wisdom which I am fortunate to get to learn because of my mentor and has changed my life.
 
