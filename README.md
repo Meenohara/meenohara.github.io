@@ -1,20 +1,20 @@
 ## Thanks for dropping by my Page!
 Meena here, a software developer based in Bengaluru. I have been developing Android apps for my own playstore since 2016. I am looking for freelance assignments/remote jobs with Android App development; I also have basic web development skills and 5+ corporate experience with C programming in Telecommunication domain.
 
-### Mission Statement
+### <span style="color:blue">Mission Statement</span>
 I want to use technology to solve real world problems, thus make life easier. 
 
-### My Playstore link
+### <span style="color:blue">My Playstore link</span>
 https://play.google.com/store/apps/developer?id=MeeM
 
 ### <span style="color:blue">Relevant Android Developer Skills</span>
-•	Languages - Java, Kotlin
-•	APIs - Retrofit, Github,  REST, Firebase
-•	IDEs - Android Studio, Intellij
-•	Architectural Patterns MVVM MVP MVC
+•	Languages - Java, Kotlin<br>
+•	APIs - Retrofit, Github,  REST, Firebase<br>
+•	IDEs - Android Studio, Intellij<br>
+•	Architectural Patterns MVVM MVP MVC<br>
 •	Design Patterns - Builder, Observer, Publish-Subscriber, Singleton, Factory, Adapter, Composite, Facade, Dependency
 
-### General Developer Skills
+### <span style="color:blue">General Developer Skills</span>
 •	Analytical skills
 •	Troubleshooting ability
 •	Debugging
@@ -22,22 +22,23 @@ https://play.google.com/store/apps/developer?id=MeeM
 •	Attention to detail
 •	Researching abilities
 
-### Open Source Contribution
+### <span style="color:blue">Open Source Contribution</span>
 Contributed code in Javascript, HTML, HTML5, XHTML, CSS and Freemarker for Mozilla in the project Offline Support Pages for Certificate Errors
 [Link](https://bugzilla.mozilla.org/user_profile?user_id=658715)
 
+<aside>
 ### Contact
 scientistartist@gmail.com
 
 ### CV
-Download my reume from [here](https://www.dropbox.com/s/ftutpt56atu0lvi/MeenaCVRemote.pdf?dl=0)
+Download my resume from [here](https://www.dropbox.com/s/ftutpt56atu0lvi/MeenaCVRemote.pdf?dl=0)
 
 ### LinkedIn
 [Meena M](https://www.linkedin.com/in/meena-m-308208165/) 
 
 ### My development machine
 I use my HP Pavilion laptop with Windows operating System.(64 bit i5 8GB RAM)
-
+</aside>
 
 ### Service
 I have been fortunate to have generous mentors for coaching with coding, job hunt(who made me take steps to improve this page), my life mentor who is always holding my hand and many people who have helped me in my life journey as well as coding journey.
