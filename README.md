@@ -1,4 +1,4 @@
-## Thanks for dropping by my Page!
+
 Meena here, a software developer based in Bengaluru. I have been developing Android apps for my own playstore since 2016. I am looking for freelance assignments/remote jobs with Android App development; I also have basic web development skills and 5+ corporate experience with C programming in Telecommunication domain.
 
 ### <span style="color:blue">Mission Statement</span>
@@ -26,7 +26,6 @@ https://play.google.com/store/apps/developer?id=MeeM
 Contributed code in Javascript, HTML, HTML5, XHTML, CSS and Freemarker for Mozilla in the project Offline Support Pages for Certificate Errors
 [Link](https://bugzilla.mozilla.org/user_profile?user_id=658715)
 
-<aside>
 ### Contact
 scientistartist@gmail.com
 
@@ -38,7 +37,6 @@ Download my resume from [here](https://www.dropbox.com/s/ftutpt56atu0lvi/MeenaCV
 
 ### My development machine
 I use my HP Pavilion laptop with Windows operating System.(64 bit i5 8GB RAM)
-</aside>
 
 ### Service
 I have been fortunate to have generous mentors for coaching with coding, job hunt(who made me take steps to improve this page), my life mentor who is always holding my hand and many people who have helped me in my life journey as well as coding journey.
